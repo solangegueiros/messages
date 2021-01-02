@@ -1,0 +1,31 @@
+{
+  "name": "messages",
+  "version": "1.0.0",
+  "description": "Sol messagens registered in Blockchain",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/solangegueiros/messages.git"
+  },
+  "keywords": [
+    "blockchain",
+    "smart contracts",
+    "ethereum",
+    "rsk"
+  ],
+  "author": "Solange Gueiros <solangegueiros@gmail.com> (https://solange.dev)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/solangegueiros/messages/issues"
+  },
+  "homepage": "https://github.com/solangegueiros/messages#readme",
+  "dependencies": {
+    "@truffle/hdwallet-provider": "^1.2.1"
+  }
+}
