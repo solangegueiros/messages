@@ -10,12 +10,14 @@ Deployed on
 
 ### Ethereum Mainnet 
 
+(waiting mining)
+
 Address: 
 
 [](https://explorer.rsk.co/address/)
 
 Transaction:
-[](https://explorer.rsk.co/tx/)
+[0xbb1c2df2c33a401e64af0ef6924eb27354455eb48a1cf26e8a58c70a27d789f1](https://etherscan.io/tx/0xbb1c2df2c33a401e64af0ef6924eb27354455eb48a1cf26e8a58c70a27d789f1)
 
 ### Ethereum Goerli 
 
