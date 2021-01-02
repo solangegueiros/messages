@@ -36,6 +36,7 @@ if (typeof minimumGasPriceMainnet !== 'number' || isNaN(minimumGasPriceMainnet))
 console.log("Minimum gas price Mainnet: " + minimumGasPriceMainnet);
 
 module.exports = {
+  //contracts_build_directory: path.join(__dirname, "app/src/contracts"), 
   
   networks: {
     develop: {
